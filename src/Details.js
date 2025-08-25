@@ -91,9 +91,16 @@ export const eduDetails = [
   {
     Position: "Bachelor of Arts, Surveying Department",
     Company: `Faculty of Arts, Mansoura University`,
-    Location: "Egypt",
+    Location: "Mansoura",
     Type: "Full Time",
     Duration: "Aug 2022 - 2026",
+  },
+  {
+    Position: "Information Technology Institute Summer Training",
+    Company: `Mansoura University`,
+    Location: "Mansoura",
+    Type: "internship",
+    Duration: "jul 2025 - aug 2025",
   },
 ];
 
